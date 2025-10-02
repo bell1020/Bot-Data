@@ -1228,6 +1228,10 @@
      "general_medallion": {
         "rarity": "rare",
         "upgrade": null
+     },
+     "dwarven_metal": {
+        "rarity": "uncommon",
+        "upgrade": null
      }
 
 
