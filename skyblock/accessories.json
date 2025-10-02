@@ -103,6 +103,10 @@
         "rarity": "uncommon",
         "upgrade": null
     },
+    "emerald_artifact": {
+        "rarity": "rare",
+        "upgrade": null
+    },
     "night_crystal": {
         "rarity": "rare",
         "upgrade": null
@@ -1184,7 +1188,47 @@
     "seal_ring": {
         "rarity": "rare",
         "upgrade": null
-    }
+    },
+    "nibble_chocolate_stick": {
+        "rarity": "common",
+        "upgrade": "smooth_chocolate_bar"
+    },
+    "smooth_chocolate_bar": {
+        "rarity": "uncommon",
+        "upgrade": "rich_chocolate_chunk"
+    },
+    "rich_chocolate_chunk": {
+        "rarity": "rare",
+        "upgrade": "ganache_chocolate_slab"
+    },
+    "ganache_chocolate_slab": {
+        "rarity": "epic",
+        "upgrade": "prestige_chocolate_realm"
+    },
+    "prestige_chocolate_realm": {
+        "rarity": "legendary",
+        "upgrade": null   
+    },
+    "century_talisman": {
+        "rarity": "common",
+        "upgrade": "century_ring"
+    },
+     "century_ring": {
+        "rarity": "uncommon",
+        "upgrade": null
+     },
+     "magic_8_ball": {
+        "rarity": "rare",
+        "upgrade": null
+     },
+     "runebook": {
+        "rarity": "common",
+        "upgrade": null
+     },
+     "general_medallion": {
+        "rarity": "rare",
+        "upgrade": null
+     }
 
 
 }
